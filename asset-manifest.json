@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Property-App/static/css/main.e6c13ad2.css",
-    "main.js": "/Property-App/static/js/main.e7233a23.js",
-    "static/js/787.2b0a459f.chunk.js": "/Property-App/static/js/787.2b0a459f.chunk.js",
-    "index.html": "/Property-App/index.html",
-    "main.e6c13ad2.css.map": "/Property-App/static/css/main.e6c13ad2.css.map",
-    "main.e7233a23.js.map": "/Property-App/static/js/main.e7233a23.js.map",
-    "787.2b0a459f.chunk.js.map": "/Property-App/static/js/787.2b0a459f.chunk.js.map"
+    "main.css": "/Propert-App/static/css/main.6deae8de.css",
+    "main.js": "/Propert-App/static/js/main.981a2747.js",
+    "static/js/787.2b0a459f.chunk.js": "/Propert-App/static/js/787.2b0a459f.chunk.js",
+    "index.html": "/Propert-App/index.html",
+    "main.6deae8de.css.map": "/Propert-App/static/css/main.6deae8de.css.map",
+    "main.981a2747.js.map": "/Propert-App/static/js/main.981a2747.js.map",
+    "787.2b0a459f.chunk.js.map": "/Propert-App/static/js/787.2b0a459f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.e7233a23.js"
+    "static/css/main.6deae8de.css",
+    "static/js/main.981a2747.js"
   ]
 }
