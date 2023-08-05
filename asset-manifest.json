@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Property-App/static/css/main.6deae8de.css",
-    "main.js": "/Property-App/static/js/main.3d87de52.js",
+    "main.css": "/Property-App/static/css/main.89c4a218.css",
+    "main.js": "/Property-App/static/js/main.8c4ca73b.js",
     "static/js/787.2b0a459f.chunk.js": "/Property-App/static/js/787.2b0a459f.chunk.js",
     "index.html": "/Property-App/index.html",
-    "main.6deae8de.css.map": "/Property-App/static/css/main.6deae8de.css.map",
-    "main.3d87de52.js.map": "/Property-App/static/js/main.3d87de52.js.map",
+    "main.89c4a218.css.map": "/Property-App/static/css/main.89c4a218.css.map",
+    "main.8c4ca73b.js.map": "/Property-App/static/js/main.8c4ca73b.js.map",
     "787.2b0a459f.chunk.js.map": "/Property-App/static/js/787.2b0a459f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6deae8de.css",
-    "static/js/main.3d87de52.js"
+    "static/css/main.89c4a218.css",
+    "static/js/main.8c4ca73b.js"
   ]
 }
